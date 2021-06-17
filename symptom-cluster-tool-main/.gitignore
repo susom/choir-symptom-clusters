@@ -1,0 +1,9 @@
+# ignore Rproj files
+.Rproj.user/*
+
+# ignore log files
+srv/*
+.Rproj.user
+
+# ignore Rhistory
+.Rhistory
